@@ -1,0 +1,9 @@
+C:\Users\grupo\source\repos\CAJAS\CAJAS\bin\Debug\CAJAS.exe.config
+C:\Users\grupo\source\repos\CAJAS\CAJAS\bin\Debug\CAJAS.exe
+C:\Users\grupo\source\repos\CAJAS\CAJAS\bin\Debug\CAJAS.pdb
+C:\Users\grupo\source\repos\CAJAS\CAJAS\obj\Debug\CAJAS.csprojAssemblyReference.cache
+C:\Users\grupo\source\repos\CAJAS\CAJAS\obj\Debug\CAJAS.Properties.Resources.resources
+C:\Users\grupo\source\repos\CAJAS\CAJAS\obj\Debug\CAJAS.csproj.GenerateResource.cache
+C:\Users\grupo\source\repos\CAJAS\CAJAS\obj\Debug\CAJAS.csproj.CoreCompileInputs.cache
+C:\Users\grupo\source\repos\CAJAS\CAJAS\obj\Debug\CAJAS.exe
+C:\Users\grupo\source\repos\CAJAS\CAJAS\obj\Debug\CAJAS.pdb
